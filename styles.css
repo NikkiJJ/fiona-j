@@ -5,22 +5,22 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: Tahoma, sans-serif;
   background: #f5f3ee;
-  color: #1e2940;
+  color: #6F8FAF;
   line-height: 1.6;
 }
 
 /* ---------- NAVBAR ---------- */
 
 .navbar {
-  background: #1e2940;
+  background: #6F8FAF;
   padding: 1rem;
   text-align: center;
 }
 
 .navbar-content {
-  font-family: "Georgia", "Times New Roman", serif;
+  font-family: Tahoma, sans-serif;
   font-size: 2.5rem;
   color: #fff;
   letter-spacing: 0.1em;
@@ -65,10 +65,10 @@ body {
 }
 
 .about h2 {
-  font-family: "Georgia", "Times New Roman", serif;
+  font-family: Tahoma, sans-serif;
   font-size: 1.8rem;
   margin-bottom: 1rem;
-  color: #1e2940;
+  color: #6F8FAF;
 }
 
 .about p {
@@ -94,23 +94,23 @@ body {
 }
 
 .gallery-card h3 {
-  font-family: "Georgia", "Times New Roman", serif;
+  font-family: Tahoma, sans-serif;
   font-size: 1.2rem;
   margin-bottom: 0.25rem;
-  color: #1e2940;
+  color: #6F8FAF;
 }
 
 .gallery-card .location {
   font-size: 0.9rem;
   margin-bottom: 1.25rem;
-  color: #1e2940;
+  color: #6F8FAF;
 }
 
 .btn-outline {
   display: inline-block;
   padding: 0.6rem 1.8rem;
-  border: 1px solid #1e2940;
-  background: #1e2940;
+  border: 1px solid #6F8FAF;
+  background: #6F8FAF;
   font-size: 0.9rem;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -122,13 +122,13 @@ body {
 
 .btn-outline:hover {
   background: white;
-  color: #1e2940;
+  color: #6F8FAF;
 }
 
 /* ---------- FOOTER ---------- */
 
 .footer {
-  background: #1e2940;
+  background: #6F8FAF;
   color: #fff;
   text-align: center;
   padding: 1.5rem 1rem;
